@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 
 def print_elements_after_duplicate_pair(tup):
     if len(tup) < 2:
